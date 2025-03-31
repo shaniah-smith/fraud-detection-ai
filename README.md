@@ -3,8 +3,6 @@ AI-Powered Financial Fraud Detection
 
 A machine learning model that detects fraudulent transactions using anomaly detection (Isolation Forest). Built with Python + Scikit-learn.
 
----
-
 # What it Does
 
 - Detects suspicious financial transactions
@@ -12,7 +10,6 @@ A machine learning model that detects fraudulent transactions using anomaly dete
 - Uses Isolation Forest to separate outliers
 - Easy to expand for phishing, dark web, etc.
 
----
 
 # Tech Stack
 
@@ -21,7 +18,6 @@ A machine learning model that detects fraudulent transactions using anomaly dete
 - Jupyter Notebook
 - GitHub
 
----
 
 # How to Run
 
